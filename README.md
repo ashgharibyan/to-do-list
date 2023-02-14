@@ -3,12 +3,18 @@
 This to-do list web application is designed to help users manage their tasks in a straightforward and efficient manner. Users can easily add new tasks, mark them as completed, and delete them when necessary. The app offers several useful features, including the ability to sort tasks in alphabetical, reverse alphabetical, or completed order. Additionally, users can filter their tasks based on whether they are completed or not, allowing them to focus on what is most important. With its user-friendly interface and helpful features, this to-do list app is an excellent tool for staying organized and productive. Whether you are a busy professional or a student with a lot on your plate, this app can help you manage your tasks and stay on top of your schedule.
 
 # App Screenshots
+
 ## Main Dashboard
-<img src="https://i.imgur.com/88rFvS0.png" width="500">
+
+<img src="https://i.imgur.com/88rFvS0.png" width="600">
+
 ## Filtering
-<img src="https://i.imgur.com/ks5LxYb.png" width="300">
+
+<img src="https://i.imgur.com/ks5LxYb.png" width="400">
+
 ## Sorting
-<img src="https://i.imgur.com/gnnOSc4.png" width="300">
+
+<img src="https://i.imgur.com/gnnOSc4.png" width="400">
 
 ## Getting Started with the To-Do List app
 

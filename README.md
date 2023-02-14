@@ -4,11 +4,11 @@ This to-do list web application is designed to help users manage their tasks in 
 
 # App Screenshots
 ## Main Dashboard
-![todo list app ](https://i.imgur.com/88rFvS0.png)
+![todo list app ](https://i.imgur.com/88rFvS0.png | width=200)
 ## Filtering
-![todo list app ](https://i.imgur.com/ks5LxYb.png)
+![todo list app ](https://i.imgur.com/ks5LxYb.png | width=100)
 ## Sorting
-![todo list app ](https://i.imgur.com/gnnOSc4.png)
+![todo list app ](https://i.imgur.com/gnnOSc4.png | width=100)
 
 ## Getting Started with the To-Do List app
 

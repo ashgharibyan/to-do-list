@@ -5,16 +5,14 @@ This to-do list web application is designed to help users manage their tasks in 
 # App Screenshots
 
 ## Main Dashboard
-
-<img src="https://i.imgur.com/88rFvS0.png" width="600">
+<img width="700" alt="Screenshot 2023-02-14 at 12 44 58 PM" src="https://user-images.githubusercontent.com/119915091/218886090-9018c734-984a-4b2c-841c-0667e411c789.png">
 
 ## Filtering
-
-<img src="https://i.imgur.com/ks5LxYb.png" width="400">
+<img width="400" alt="Screenshot 2023-02-14 at 12 45 02 PM" src="https://user-images.githubusercontent.com/119915091/218886104-63b094da-b117-4475-b79d-0396fd255c39.png">
 
 ## Sorting
+<img width="400" alt="Screenshot 2023-02-14 at 12 45 05 PM" src="https://user-images.githubusercontent.com/119915091/218886110-18b19da4-c6e3-49b2-91af-7c7b21d9ac22.png">
 
-<img src="https://i.imgur.com/gnnOSc4.png" width="400">
 
 ## Getting Started with the To-Do List app
 

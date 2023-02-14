@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# About To-Do List app
+
+This to-do list web application is designed to help users manage their tasks in a straightforward and efficient manner. Users can easily add new tasks, mark them as completed, and delete them when necessary. The app offers several useful features, including the ability to sort tasks in alphabetical, reverse alphabetical, or completed order. Additionally, users can filter their tasks based on whether they are completed or not, allowing them to focus on what is most important. With its user-friendly interface and helpful features, this to-do list app is an excellent tool for staying organized and productive. Whether you are a busy professional or a student with a lot on your plate, this app can help you manage your tasks and stay on top of your schedule.
+
+
+
+
+## Getting Started with the To-Do List app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
